@@ -69,28 +69,38 @@ About = [
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Khushi-51&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+
+<img src="https://raw.githubusercontent.com/Khushi-51/Khushi-51/output/snake.svg" alt="Snake animation" />
+
 </div>
 
-##  Contribution Graph
+## 🌱 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-51&radius=16&theme=material-palenight&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 
-<img src="https://raw.githubusercontent.com/Khushi-51/Khushi-51/output/snake.svg" alt="Snake animation" />
 </div>
 
-## 📫 Connect with me
+## 📫 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/khushi-badsra-8753b7290"><img src="https://raw.githubusercontent.com/rahuldkjain/
-github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" /></a>
+<div align="left">
+  <a href="https://linkedin.com/in/khushi-badsra-8753b7290" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" />
+  </a>
   <img width="12" />
-  <a href="https://instagram.com/b_.khushi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/
-images/icons/Social/instagram.svg" alt="Instagram" height="30" /></a>
+  <a href="https://instagram.com/b_.khushi" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="30" />
+  </a>
   <img width="12" />
-  <a href="https://www.leetcode.com/KhushiBadsra"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/
-src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" /></a>
-</p>
+  <a href="https://www.leetcode.com/KhushiBadsra" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="30" />
+  </a>
+  <img width="12" />
+  <a href="mailto:khushiloginto@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" />
+  </a>
+</div>
+
 
 
 ## 👥 Visitors Count
