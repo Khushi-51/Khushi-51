@@ -83,26 +83,8 @@ About = [
 
 ## 📫 Connect with Me
 
-<div align="left">
-  <a href="https://linkedin.com/in/khushi-badsra-8753b7290" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" />
-  </a>
-  <img width="12" />
-  <a href="https://instagram.com/b_.khushi" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="30" />
-  </a>
-  <img width="12" />
-  <a href="https://www.leetcode.com/KhushiBadsra" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="30" />
-  </a>
-  <img width="12" />
-  <a href="mailto:khushiloginto@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" />
-  </a>
-</div>
-
-
-
-## 👥 Visitors Count
-<img src="https://profile-counter.glitch.me/Khushi-51/count.svg" />
+<p align="center">
+<a href="https://www.linkedin.com/in/khushi-badsra-8753b7290/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"></a>
+<a href="https://x.com/Khushi606272132" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50"></a> 
+<a href="https://www.instagram.com/b_.khushi/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50"></a>
 
